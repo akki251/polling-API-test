@@ -1,5 +1,5 @@
 
-# Polling Test 
+# Polling API  
 
 An API built in node js for polling from different users by taking votes on options of particular question.
 
