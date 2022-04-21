@@ -1,12 +1,12 @@
 
-# Placement-cell
+# Polling Test 
 
-A webapp for employees, to download stats of therir students with apporpirate details and interview along with status
+An API built in node js for polling from different users by taking votes on options of particular question.
 
 
-## LIVE DEMO
+##  API DOCUMENTATION
 
-Live demo (Feel free to visit) 👉 : https://fast-ravine-22678.herokuapp.com/
+Postman API Documentation 👉 : https://documenter.getpostman.com/view/14836896/Uyr4JzFB
 
 
 ## Run Locally
@@ -14,13 +14,13 @@ Live demo (Feel free to visit) 👉 : https://fast-ravine-22678.herokuapp.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/akki251/Placement-Cell---Skill-Test.git
+  git clone https://github.com/akki251/polling-API-test.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Placement-Cell---Skill-Test
+  cd polling-API-test
 ```
 
 Install dependencies
@@ -43,9 +43,7 @@ To run this project, you will need to add the following environment variables to
 `DATABASE_URL`
 
 
-## Postman api documentation
 
-[Documentation](https://documenter.getpostman.com/view/14836896/UVyn1e8R)
 
 
 
